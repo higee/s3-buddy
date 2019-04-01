@@ -54,8 +54,8 @@ aws_secret_access_key = something
 
 ```
 $ cd {somewhere}
-$ git clone https://github.com/higee/s3-wrapper
-$ cd s3-wrapper
+$ git clone https://github.com/higee/s3-buddy
+$ cd s3-buddy
 $ pip install -r requirements.txt
 ```
 
@@ -140,8 +140,8 @@ aws_secret_access_key = something
 
 ```
 $ cd {somewhere}
-$ git clone https://github.com/higee/s3-wrapper
-$ cd s3-wrapper
+$ git clone https://github.com/higee/s3-buddy
+$ cd s3-buddy
 $ pip install -r requirements.txt
 ```
 
